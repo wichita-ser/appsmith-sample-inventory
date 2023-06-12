@@ -1,0 +1,4 @@
+{
+	"username": {{InputUsername.text}},
+	"password": {{inputPwd.text}}
+}
